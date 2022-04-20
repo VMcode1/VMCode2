@@ -1,4 +1,4 @@
-😉 <h1> Estudante de Pythom, Note.Js & html/css </h1>
-💻 <h1> Me pergunte alguma coisa 🧐 </h1>
-💻 <h1> E também de cybersecurity e banco de dados </h1>
+😉 <h3> Estudante de Pythom, Note.Js & html/css </h3>
+💻 <h3> Me pergunte alguma coisa 🧐 </h3>
+💻 <h3> E também de cybersecurity e banco de dados </h3>
 
